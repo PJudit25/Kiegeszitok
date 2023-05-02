@@ -29,3 +29,13 @@ h1{
 h2{
     color: #9bce11;
 }
+
+header{    
+    background-position: center center;
+    height: 200px;
+    background-image: url(img/background.jpg) ;
+}
+
+.navbar{
+    background-color: #aea598;
+}
