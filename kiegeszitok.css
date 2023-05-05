@@ -6,29 +6,14 @@ a:link,a:hover,a:active,a:visited{
     color:#747474;
 }
 
-table{
-    margin: 0 auto;
-    width: 1000px;
-    border: none;
-    padding: 2px;
-}
-
-
-h1{
+h1, h2{
     text-align: center;
 }
 
-.jobbraIgazitas{
-    float: right;
+.th{
+height: 80px;
 }
 
-#kepFel{
-    vertical-align: top;
-}
-
-h2{
-    color: #9bce11;
-}
 
 header{    
     background-position: center center;
